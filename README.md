@@ -11,6 +11,7 @@ Os passos são os seguintes:<br>
 -> 5 - Iniciando StartBuild no OpenShift;
 
 Ele é totalmente adaptável para várias publicações (projeto), desde que cada projeto tenha sua configuração (appsettings.json) específica.
+<br>
 
 
 # Ajuda - Publicador do OpenShift
@@ -20,6 +21,7 @@ Para usar o arquivo de configuração: appsettings.des-atendimento-medico-backen
 
 Se quiser usar somente o arquivo padrão (appsettings.json), chame o executável sem passar argumento.
 Execute: Publisher.OpenShift.exe
+<br>
 
 
 # Tipo e Versão
