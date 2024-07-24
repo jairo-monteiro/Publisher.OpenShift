@@ -1,7 +1,9 @@
 # Publisher.OpenShift
 
 Aplicação para fazer a publicação dos produtos na plataforma OpenShift.
+
 Essa aplicação realiza todos os passos necessários para publicar o projeto no respectivo container, bem como a gravação dos logs de cada processo.
+
 Os passos são os seguintes:<br>
 -> 0 - Copiando pacotes Nuget para o SabespNugetHomolog;<br>
 -> 1 - Definindo branchs do processo (checkout, fetch e pull);<br>
